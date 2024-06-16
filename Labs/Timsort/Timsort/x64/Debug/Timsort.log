@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\msard\Desktop\Timsort\Timsort\Insert_sort.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "main.cpp")
+  
+  Timsort.vcxproj -> C:\Users\msard\Desktop\Timsort\x64\Debug\Timsort.exe
