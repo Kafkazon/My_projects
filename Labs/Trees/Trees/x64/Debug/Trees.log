@@ -1,0 +1,14 @@
+﻿  AVL_tree.cpp
+  Bin_tree.cpp
+C:\Users\msard\Desktop\Trees\Trees\Bin_tree.cpp(90,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  List.cpp
+  main.cpp
+  Node.cpp
+  Queue.cpp
+  Stek.cpp
+  Stek_tree.cpp
+  Tree_node.cpp
+  Vector.cpp
+  Создание кода...
+C:\Users\msard\Desktop\Trees\Trees\AVL_tree.cpp(158,1): warning C4715: AVL_tree::search: значение возвращается не при всех путях выполнения
+  Trees.vcxproj -> C:\Users\msard\Desktop\Trees\x64\Debug\Trees.exe
